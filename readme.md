@@ -30,7 +30,7 @@ sss
     > 详细文档可以参考 [Serverless Devs 安装文档](https://github.com/Serverless-Devs/Serverless-Devs/blob/master/docs/zh/install.md)
 2. 配置密钥信息：`s config add`
     > 详细文档可以参考 [阿里云密钥配置文档](https://github.com/devsapp/fc/blob/main/docs/zh/config.md)
-3. 初始化项目：`s init start-django -d start-django`
+3. 初始化项目：`s init start-django -d start-django`s
 4. 进入项目并部署：`cd start-django && s deploy`
 
 > 在本地使用该项目时，不仅可以部署，还可以进行更多的操作，例如查看日志，查看指标，进行多种模式的调试等，这些操作详情可以参考[函数计算组件命令文档](https://github.com/devsapp/fc#%E6%96%87%E6%A1%A3%E7%9B%B8%E5%85%B3) ;
